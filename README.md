@@ -1,0 +1,1 @@
+A directiory consisting of my solutions to the advent of code projects.
